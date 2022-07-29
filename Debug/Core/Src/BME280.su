@@ -1,0 +1,8 @@
+../Core/Src/BME280.c:25:6:Trim_Read	56	static
+../Core/Src/BME280.c:72:5:BME280_config	48	static
+../Core/Src/BME280.c:130:6:BME280_WakeUP	32	static
+../Core/Src/BME280.c:142:5:BME280_ReadRaw	32	static
+../Core/Src/BME280.c:173:9:BME280_compensate_T_int32	32	static
+../Core/Src/BME280.c:188:10:BME280_compensate_P_int64	328	static
+../Core/Src/BME280.c:244:10:bme280_compensate_H_int32	24	static
+../Core/Src/BME280.c:261:6:BME280_Measure	8	static
